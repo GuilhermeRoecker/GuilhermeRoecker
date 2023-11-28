@@ -1,2 +1,2 @@
-# Olá, me chamo Guilherme !! `rgb(9, 105, 218)`
+# Olá, me chamo Guilherme !!
 ## Bem vindo ao meu perfil 👋
