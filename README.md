@@ -1,11 +1,10 @@
 # Olá, me chamo Guilherme !!
----
-Bem vindo ao meu perfil 👋
----
-Tenho 20 anos 
----
-Estou cursando sistemas de informação - Unibave
----
+<div>
+Bem vindo ao meu perfil 👋 <br>
+Tenho 21 anos <br>
+Cursando sistemas de informação - Unibave
+</div>
+
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRoecker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRoecker&layout=compact&langs_count=7&theme=dracula"/>
