@@ -37,3 +37,8 @@ Cursando sistemas de informação - Unibave
 <a href = "mailto:guilherme.roecker@outook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-roecker-0414a7286/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+## Trofeis
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeRoecker&theme=onedark)](https://github.com/GuilhermeRoecker/github-profile-trophy)
