@@ -1,8 +1,8 @@
-# *Olá, me chamo Guilherme !!*
+# *Hello, my name is Guilherme !!*
 <div>
-Bem vindo ao meu perfil 👋 <br>
-Tenho 22 anos <br>
-Cursando sistemas de informação - Unibave
+Be welcome to my profile 👋 <br>
+To see my projects click <a href="https://roecker.com.br" target="_blank">here</a> <br>
+Pursuing a degree in Information Systems at Unibave
 </div>
 
 <div>
@@ -14,7 +14,7 @@ Cursando sistemas de informação - Unibave
 </div>
 
 
-### Estou aprendendo
+### Currently learning
 <picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width='50' />
 </picture>
@@ -31,7 +31,7 @@ Cursando sistemas de informação - Unibave
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='50' />
 </picture>
 
-## Contatos
+## Contacts
 <div>
 <a href="https://instagram.com/guilhermeroecker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guilherme.roecker@outook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -39,6 +39,6 @@ Cursando sistemas de informação - Unibave
 </div>
 
 
-## Trofeis
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeRoecker&theme=onedark)](https://github.com/GuilhermeRoecker/github-profile-trophy)
